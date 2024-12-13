@@ -1,0 +1,5 @@
+{{!-- Network Configuration --}}
+var port := 8080
+var max_connections := 1000
+var allowed_ips := << 192, 192, 192 >>
+![port]
